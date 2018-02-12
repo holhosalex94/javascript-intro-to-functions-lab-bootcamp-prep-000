@@ -4,4 +4,6 @@
     function whisper(string) {
       return string;
     }
- 
+  function whisper(string) {
+      return string;
+    } 
