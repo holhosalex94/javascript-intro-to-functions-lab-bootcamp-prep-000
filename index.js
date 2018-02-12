@@ -1,4 +1,7 @@
     function shout(string) {
       return string
     }
-    whisper
+    function shout(string) {
+      return string
+    }
+ 
