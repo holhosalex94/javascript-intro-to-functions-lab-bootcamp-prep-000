@@ -4,6 +4,6 @@
     function whisper(string) {
       return string;
     }
-  function whisper(string) {
+  function logShout(string) {
       return string;
     } 
